@@ -1,0 +1,172 @@
+
+
+-------------- Python --------------------
+
+Q. What is Python ??
+- It is a programming language that is used to execute an algorithm
+- It is widely used for backend, frontend, apps, games, Machine learning, deep learning, image procerssing, speech .....
+- Written by Guido Van Roussum (Mathematician) in 1991
+
+
+Q Why Python
+- easy to understand
+- no object declaration (int, float)
+- no calling of void function
+- no termination of code line with ;
+- Open Source / free to use
+- Vast collection of libraries...
+
+
+
+
+
+Implementation of Python : 
+Cython (.py)- Python was developed using C
+Jython (.py)- Python was developed using Java
+Ruby Python (.py)- Python was developed using Ruby
+Iron Python (.ipy) - Python was developed using .net 
+pypy (.py) - Python was developed using python
+
+cpython - compiled python - byte code
+
+.py - python
+.ipynb - iron python notebook, interactive python notebook
+
+
+
+--------------------------------------------------------------------------
+
+object - everything that you declare is an object in python
+	-	10 , 5.66 , False, "Hello", a, b, c, d
+
+variable - used to store the value
+	-	written on left side of =
+	-	a b c d
+
+literal - a value
+	-	written on right side of =
+	-	10 , 5.66 , False, "Hello"
+
+
+
+--------------------------------------------------------------------------
+
+Statistically typed language : 
+	-	data type declaration of all objects are done explicitely (Externaly)
+	-	Ex : int a = 10, float b = 3.66,char d = "Hello"
+	-	To allocate the memory to the object (bytes)
+	-	PL => C, Java ...
+	
+	-	On execution (Running) of the program, interpreter undertstands the datatype (referring to EXTERNAL command) of the object and allocate some defined memory to it.
+
+
+
+Dynamically typed language : 
+	-	data type declaration of all objects are done implicitely (Internaly)
+	-	Ex : a = 10, b = 3.66,d = "Hello"
+	-	PL => Python, R...
+
+	-	On execution (Running) of the program, interpreter undertstands the datatype of the object and allocate some defined memory to it.
+
+
+Python is known as Interpreted Language.
+
+
+---------------------------------------------------------------
+PYPI -> Python Package Index (Website)
+	Find, install and publish Python packages with the Python Package Index on website (cloud)
+
+PVM -> Python Virtual machine
+	Interpreter that understands the Python code
+
+PIP -> Python Installer Package (Hidden)
+	This is used to install, uninstall, upgrade the package on local system
+
+
+---------------------------------------------------------------
+
+
+
+Python is slower to Java and C...
+ - in Java , C because datatype declaration is done explicitely and it becomes easier for interpreter to work
+
+
+development cycle
+
+google lost to youtube
+fb lost to instagram
+VLC
+dropbox
+quora
+reddit
+netflix - recommendation 
+
+
+
+
+
+Industry : 
+Jupyter Notebook -> Analysis : Run selected lines
+Anaconda , VS code
+
+
+Python Files -> 
+Anaconda (Spyder) , VS Code , Pycharm, Idle...
+
+
+Anaconda Installations : 
+[8gb ram, 10gb hdd (ssd), 1gb graphics (nvidea)]
+https://www.anaconda.com/download
+ 
+1. Anaconda Distribution (Earler : Anadonda Individual Edition)
+2. pip/anaconda/conda you have to accept (It will become a part of environment variable)
+	(pip as Path)
+3. Register as Default Python + PIP to Path
+
+
+-- After Installation
+1. Start Menu -> Jupyter notebook -> Dialog Box (DONT CLOSE) -> Website (http://localhost:8888/tree)
+	Problems -> If it didnot open in 5 minutes , copy the link from dialog box and use it in any browser
+	Problem -> TOKEN problem, refer to token in URL 
+		(http://localhost:8888/?token=8f0430de0b7f133db21a9f57dd9213a357ce28574a7146ec)
+
+
+2. Start Menu -> Anaconda Navigator -> launch Jupyter Notebook (No Dialog box)
+
+
+Jupyter Notebook -> opened in Google Colab -> Save the Files on drive/github/local system.
+	Cons -> You have to install the packages again and again before running the file.
+		if you want to save the package then limit is 15GB , as per drive...
+
+
+Open Jupyter Notebook in any folder : 
+https://www.drdataking.com/post/how-to-launch-jupyter-notebook-from-any-folder/
+
+
+
+
+Create a file in Jupyter Notebook 
+Homepage -> Click on the selected folder -> New -> Python
+
+
+
+Jupyter Notebook tricks : 
+Cursor is Blue when Outside (Cant be editted) [You can select multiple by using shift and arrows] ==> Press Excape
+Cursor is Green when Inside (Edit) ==> Press Enter
+Insert cell Above : a
+Insert cell Below : b
+
+Cell Type ==> Code (y) ==> Use it for scripting
+Cell Type ==> markdown (m) ==> Use it for Texting
+
+
+RUN -> Code -> 3 shortcuts
+
+
+
+
+
+
+
+
+
